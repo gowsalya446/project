@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "650c335a65732bd01b419179"
+  },
+  "id": 7,
+  "user_id": 6,
+  "movie_id": 1,
+  "total_cost": 250
+},
+{
+  "_id": {
+    "$oid": "650c336265732bd01b41917c"
+  },
+  "id": 8,
+  "user_id": 6,
+  "movie_id": 1,
+  "total_cost": 250
+},
+{
+  "_id": {
+    "$oid": "65144a8fd14900c8b27912c7"
+  },
+  "id": 9,
+  "user_id": 6,
+  "movie_id": 19,
+  "total_cost": 500
+},
+{
+  "_id": {
+    "$oid": "653a22b3fc37476799cce716"
+  },
+  "id": 10,
+  "user_id": 6,
+  "movie_id": 19,
+  "total_cost": 200
+}]

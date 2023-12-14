@@ -1,0 +1,17 @@
+#logo {
+	font-size: 30px;
+	font-weight: 700;
+}
+
+#logo > span {
+	color: tomato;
+}
+
+.navbar-nav .nav-item.active .nav-link {
+	transition: color 0.3s ease-in-out;
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+	color: tomato;
+	font-weight: 700;
+}

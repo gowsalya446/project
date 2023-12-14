@@ -1,0 +1,28 @@
+/* styles.css */
+
+/* Customize the input fields and select dropdowns */
+.custom-input.form-control,
+.custom-select.form-control {
+	border: 2px solid tomato; /* Set a 2px solid tomato border */
+	border-radius: 10px; /* Apply a 10px border radius for rounded corners */
+	padding: 7px; /* Add 7px of padding inside the input/select elements */
+	font-size: 16px; /* Set the font size to 16px */
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Apply a subtle box shadow */
+	background-color: transparent; /* Make the inner background transparent */
+	color: #ffffff; /* Set text color to white */
+	text-align: center; /* Center-align text horizontally */
+}
+
+/* Style the select arrow */
+.custom-select.form-control::after {
+	border-color: tomato transparent transparent transparent; /* Style the select arrow with a border-color of tomato */
+	top: 50%; /* Position the arrow at the vertical center of the select */
+	margin-top: -5px; /* Adjust the vertical alignment of the arrow */
+}
+
+/* Style the select dropdown options */
+.custom-select.form-control option {
+	background-color: transparent !important; /* Make the option background transparent */
+	color: #333; /* Set text color for options */
+	width: 100%; /* Set the width of options to 100% for responsiveness */
+}

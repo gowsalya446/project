@@ -1,0 +1,41 @@
+/* Booking page styles */
+.booking-page {
+	background: linear-gradient(135deg, #000000, #222222);
+	color: #ffffff;
+	min-height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.container {
+	max-width: 800px;
+	padding: 20px;
+	text-align: center;
+}
+
+/* Button styles */
+.btn-primary {
+	background-color: #007bff;
+	border-color: #007bff;
+}
+
+.btn-primary:hover {
+	background-color: #0056b3;
+	border-color: #0056b3;
+}
+
+#remove {
+	position: absolute;
+	top: 15px;
+	right: 15px;
+	cursor: pointer;
+	transition: color 0.3s ease; /* Smooth color transition on hover */
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+	.container {
+		max-width: 90%;
+	}
+}

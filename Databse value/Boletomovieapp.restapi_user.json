@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "64f380929d95368cb2175c63"
+  },
+  "id": 2,
+  "last_login": null,
+  "name": "admin",
+  "email": "admin@mail.com",
+  "username": "admin",
+  "password": "pbkdf2_sha256$390000$LSV09NugEP3QrLEKS3d70j$ooDtNugMpfnwKksRZjm14Oi5IH5yW243+2Q1dT3bmcI=",
+  "is_active": true,
+  "is_staff": true,
+  "is_superuser": true
+},
+{
+  "_id": {
+    "$oid": "65731d165a9d13b189fefef2"
+  },
+  "id": 1,
+  "last_login": null,
+  "name": "Gowsalya",
+  "email": "gowsi123@gmail.com",
+  "username": "Gowsalya",
+  "password": "pbkdf2_sha256$390000$iLA6hvMKfee4YCMlgEleoG$13LwWKHPZXeC2KbkMIkQMFFmBix81768tuAfn/dhsMk=",
+  "is_active": true,
+  "is_staff": false,
+  "is_superuser": false
+}]

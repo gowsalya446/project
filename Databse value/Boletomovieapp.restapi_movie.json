@@ -1,0 +1,312 @@
+[{
+  "_id": {
+    "$oid": "64ea22b7927251cb0c992757"
+  },
+  "id": 13,
+  "title": "Kabhi Khushi Kabhie Gham",
+  "director": "Karan Johar",
+  "genre": "Drama",
+  "image": "https://m.media-amazon.com/images/I/51Q-1MkOl+L._UF1000,1000_QL80_.jpg",
+  "language": "Hindi",
+  "rating": {
+    "$numberDecimal": "7.4"
+  },
+  "movie_length": 210
+},
+{
+  "_id": {
+    "$oid": "64ea22b7927251cb0c992754"
+  },
+  "id": 10,
+  "title": "Dangal",
+  "director": "Nitesh Tiwari",
+  "genre": "Biography",
+  "image": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_.jpg",
+  "language": "Hindi",
+  "rating": {
+    "$numberDecimal": "8.4"
+  },
+  "movie_length": 161
+},
+{
+  "_id": {
+    "$oid": "64ea1ee8004de037f537e01c"
+  },
+  "id": 1,
+  "title": "The Kashmir Files",
+  "director": "Vivek Agnihotri",
+  "genre": "Drama",
+  "image": "https://m.media-amazon.com/images/M/MV5BYzJkZDIwYTAtMGU4Mi00NzU3LWI1MWItODg0M2Q1NmIxYmNlXkEyXkFqcGdeQXVyMTIyNzY0NTMx._V1_.jpg",
+  "language": "Hindi",
+  "rating": {
+    "$numberDecimal": "8.7"
+  },
+  "movie_length": 170
+},
+{
+  "_id": {
+    "$oid": "64ea22b7927251cb0c992750"
+  },
+  "id": 6,
+  "title": "The Lion King",
+  "director": "Roger Allers",
+  "genre": "Family",
+  "image": "https://m.media-amazon.com/images/I/81BMmrwSFOL._AC_UF1000,1000_QL80_.jpg",
+  "language": "English",
+  "rating": {
+    "$numberDecimal": "8.5"
+  },
+  "movie_length": 88
+},
+{
+  "_id": {
+    "$oid": "64ea22b7927251cb0c99274e"
+  },
+  "id": 4,
+  "title": "Forrest Gump",
+  "director": "Robert Zemeckis",
+  "genre": "Drama",
+  "image": "https://flxt.tmsimg.com/assets/p15829_v_v13_aa.jpg",
+  "language": "English",
+  "rating": {
+    "$numberDecimal": "8.8"
+  },
+  "movie_length": 142
+},
+{
+  "_id": {
+    "$oid": "64ea22b7927251cb0c99275e"
+  },
+  "id": 20,
+  "title": "Pulp Fiction",
+  "director": "Quentin Tarantino",
+  "genre": "Crime",
+  "image": "https://www.miramax.com/assets/Pulp-Fiction1.png",
+  "language": "English",
+  "rating": "8.9",
+  "movie_length": 154
+},
+{
+  "_id": {
+    "$oid": "64ea22b7927251cb0c992752"
+  },
+  "id": 8,
+  "title": "Chhichhore",
+  "director": "Nitesh Tiwari",
+  "genre": "Comedy",
+  "image": "https://img1.hotstarext.com/image/upload/f_auto,t_vl/sources/r1/cms/prod/9219/1389219-v-9752e6e5bb92",
+  "language": "Hindi",
+  "rating": {
+    "$numberDecimal": "7.7"
+  },
+  "movie_length": 146
+},
+{
+  "_id": {
+    "$oid": "64ea1f93004de037f537e01d"
+  },
+  "id": 2,
+  "title": "The Avengers",
+  "director": "Joss Whedon",
+  "genre": "Action",
+  "image": "https://contentcafe2.btol.com/ContentCafe/Jacket.aspx?userID=MLKJ0981&password=CC08155&Value=786936819175&content=L&Return=1&Type=L",
+  "language": "English",
+  "rating": {
+    "$numberDecimal": "8.0"
+  },
+  "movie_length": 143
+},
+{
+  "_id": {
+    "$oid": "64ea22b7927251cb0c992751"
+  },
+  "id": 7,
+  "title": "Bollywood Dreams",
+  "director": "Zoya Akhtar",
+  "genre": "Musical",
+  "image": "https://m.media-amazon.com/images/M/MV5BMTMyNDgxNDg4OV5BMl5BanBnXkFtZTcwNjUyNTMyMw@@._V1_FMjpg_UX1000_.jpg",
+  "language": "Hindi",
+  "rating": {
+    "$numberDecimal": "7.6"
+  },
+  "movie_length": 148
+},
+{
+  "_id": {
+    "$oid": "64ea22b7927251cb0c99275a"
+  },
+  "id": 16,
+  "title": "3 Idiots",
+  "director": "Rajkumar Hirani",
+  "genre": "Comedy",
+  "image": "https://m.media-amazon.com/images/M/MV5BNTkyOGVjMGEtNmQzZi00NzFlLTlhOWQtODYyMDc2ZGJmYzFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+  "language": "Hindi",
+  "rating": "8.4",
+  "movie_length": 170
+},
+{
+  "_id": {
+    "$oid": "64ea22b7927251cb0c99274f"
+  },
+  "id": 5,
+  "title": "Jurassic Park",
+  "director": "Steven Spielberg",
+  "genre": "Adventure",
+  "image": "https://mir-s3-cdn-cf.behance.net/project_modules/hd/f00bf346385235.58520f9022451.jpg",
+  "language": "English",
+  "rating": {
+    "$numberDecimal": "8.1"
+  },
+  "movie_length": 127
+},
+{
+  "_id": {
+    "$oid": "64ea22b7927251cb0c99275c"
+  },
+  "id": 18,
+  "title": "The Godfather",
+  "director": "Francis Ford Coppola",
+  "genre": "Crime",
+  "image": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+  "language": "English",
+  "rating": "9.2",
+  "movie_length": 175
+},
+{
+  "_id": {
+    "$oid": "64ea22b7927251cb0c992761"
+  },
+  "id": 23,
+  "title": "The Shawshank Redemption",
+  "director": "Frank Darabont",
+  "genre": "Drama",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/66b4ed8b965ec8dbb658a907be990c7412d077e8c66dd1197011c9396bbb1bc5._RI_TTW_.jpg",
+  "language": "English",
+  "rating": "9.2",
+  "movie_length": 142
+},
+{
+  "_id": {
+    "$oid": "64ea22b7927251cb0c992753"
+  },
+  "id": 9,
+  "title": "Bajrangi Bhaijaan",
+  "director": "Kabir Khan",
+  "genre": "Drama",
+  "image": "https://img1.hotstarext.com/image/upload/f_auto,t_vl/sources/r1/cms/prod/old_images/vertical/MOVIE/1777/1000071777/1000071777-v",
+  "language": "Hindi",
+  "rating": {
+    "$numberDecimal": "8.0"
+  },
+  "movie_length": 163
+},
+{
+  "_id": {
+    "$oid": "64ea22b7927251cb0c992758"
+  },
+  "id": 14,
+  "title": "Dilwale Dulhania Le Jayenge",
+  "director": "Aditya Chopra",
+  "genre": "Romance",
+  "image": "https://m.media-amazon.com/images/M/MV5BMDQ2ZmE2NTMtZDE3NC00YzFjLWJhNmEtMDEzMTI5ZjU2ZGM0XkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1_FMjpg_UX1000_.jpg",
+  "language": "Hindi",
+  "rating": {
+    "$numberDecimal": "8.2"
+  },
+  "movie_length": 189
+},
+{
+  "_id": {
+    "$oid": "64ea22b7927251cb0c992755"
+  },
+  "id": 11,
+  "title": "PK",
+  "director": "Rajkumar Hirani",
+  "genre": "Comedy",
+  "image": "https://m.media-amazon.com/images/M/MV5BMTYzOTE2NjkxN15BMl5BanBnXkFtZTgwMDgzMTg0MzE@._V1_.jpg",
+  "language": "Hindi",
+  "rating": {
+    "$numberDecimal": "8.1"
+  },
+  "movie_length": 153
+},
+{
+  "_id": {
+    "$oid": "64ea22b7927251cb0c992756"
+  },
+  "id": 12,
+  "title": "Sholay",
+  "director": "Ramesh Sippy",
+  "genre": "Action",
+  "image": "https://play-lh.googleusercontent.com/MwXYjx1UgtGu5httkCai0wTMie52LaBjwJD9jXcZrLIlp-vPo9Ly40tSX3BGwcZzsyJn2cY68Z0VebRT1w",
+  "language": "Hindi",
+  "rating": {
+    "$numberDecimal": "8.2"
+  },
+  "movie_length": 204
+},
+{
+  "_id": {
+    "$oid": "64ea22b7927251cb0c992759"
+  },
+  "id": 15,
+  "title": "Lagaan",
+  "director": "Ashutosh Gowariker",
+  "genre": "Drama",
+  "image": "https://m.media-amazon.com/images/M/MV5BNmYxZGJlNmQtMWY3OS00Njc0LThjODgtOWEwMWU4NTUxMDExXkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_.jpg",
+  "language": "Hindi",
+  "rating": "8.1",
+  "movie_length": 224
+},
+{
+  "_id": {
+    "$oid": "64ea22b7927251cb0c992760"
+  },
+  "id": 22,
+  "title": "Inception",
+  "director": "Christopher Nolan",
+  "genre": "Science Fiction",
+  "image": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg",
+  "language": "English",
+  "rating": "9.3",
+  "movie_length": 148
+},
+{
+  "_id": {
+    "$oid": "64ea22b7927251cb0c99275d"
+  },
+  "id": 19,
+  "title": "Avatar",
+  "director": "James Cameron",
+  "genre": "Science Fiction",
+  "image": "https://m.media-amazon.com/images/M/MV5BZDA0OGQxNTItMDZkMC00N2UyLTg3MzMtYTJmNjg3Nzk5MzRiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+  "language": "English",
+  "rating": "7.8",
+  "movie_length": 162
+},
+{
+  "_id": {
+    "$oid": "64ea22b7927251cb0c99275b"
+  },
+  "id": 17,
+  "title": "Interstellar",
+  "director": "Christopher Nolan",
+  "genre": "Science Fiction",
+  "image": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/08cc4e757e72f5480bcb5002b1d531a99b239b0ba4a5cb3cc9143ae08108e751._RI_TTW_.jpg",
+  "language": "English",
+  "rating": "8.6",
+  "movie_length": 169
+},
+{
+  "_id": {
+    "$oid": "64ea22b7927251cb0c99275f"
+  },
+  "id": 21,
+  "title": "The Dark Knight",
+  "director": "Christopher Nolan",
+  "genre": "Action",
+  "image": "https://images.moviesanywhere.com/bd47f9b7d090170d79b3085804075d41/c6140695-a35f-46e2-adb7-45ed829fc0c0.jpg",
+  "language": "English",
+  "rating": "9.0",
+  "movie_length": 152
+}]
